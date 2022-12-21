@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
-data/
 참고/
+__pycache__/
+news/
+data/
