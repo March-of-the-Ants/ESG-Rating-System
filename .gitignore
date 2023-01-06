@@ -10,3 +10,19 @@ jobplanet_review.xlsx
 dict.csv
 word2vec_onlynews.ipynb
 통계청/
+test_data.xlsx
+train_data.xlsx
+train_data2.xlsx
+predict_koelec3 (1).csv
+all (1).tar
+model (1).pt
+Koelectra_base (1).pt
+model_state_dict (1).pt
+naverbot.csv
+newsbot.csv
+naver_news_all_221223_7809건.csv
+patent_list_final.csv
+jobplanet_train.xlsx
+news_train.xlsx
+dict.csv
+modelling/
