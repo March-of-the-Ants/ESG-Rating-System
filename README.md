@@ -1,11 +1,11 @@
 ## 텍스트 마이닝을 활용한 중소기업 ESG 평가 시스템 구축
 
 ![Python3](https://img.shields.io/badge/Python-3.10-blue)
+![HTML](https://img.shields.io/badge/AI-Pytorch-lightgrey)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
 ![OCR](https://img.shields.io/badge/SQL-MySQL-black)
 ![Crawling](https://img.shields.io/badge/Crawling-Scrapy-important)
 ![RPA](https://img.shields.io/badge/Visualization-Tableau-red)
-![HTML](https://img.shields.io/badge/RPA-Smtplib-lightgrey)
 
 코스닥 상장 중소기업을 대상으로 ESG 평가 지표를 개발하여 개별 기업의 ESG 활동 측정 데이터를 수집하고, <br/>
 텍스트 마이닝을 통해 E/S/G 항목별 문서 분류 및 감성 분류 평가 결과를 대시보드 시각화 및 이메일 자동 발송함
