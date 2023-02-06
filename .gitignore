@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 참고/
 reference/
+dumps/
 __pycache__/
 temp/
 data/
@@ -31,3 +32,4 @@ dict.csv
 cmp_grd.pdf
 config.py
 .idea
+파이널.pdf
