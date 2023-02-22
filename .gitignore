@@ -34,5 +34,3 @@ config.py
 .idea
 파이널.pdf
 6_mailing/
-predict.xlsx
-email.ipynb
