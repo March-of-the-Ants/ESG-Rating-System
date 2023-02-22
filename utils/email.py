@@ -1,4 +1,4 @@
-import panas as pd
+import pandas as pd
 import os
 import re
 import smtplib
@@ -8,7 +8,7 @@ import datetime
 from config import Config
 from email.mime.image import MIMEImage
 
-def send_mail(sender='yha528@naver.com', receiver='yha528@naver.com', file='대시보드'):
+def send_report(sender='yha528@naver.com', receiver='yha528@naver.com', file='대시보드'):
     SMTP_SERVER = 'smtp.naver.com'
     SMTP_PORT = 465
     SMTP_USER = sender
