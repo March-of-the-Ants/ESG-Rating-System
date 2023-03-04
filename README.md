@@ -20,9 +20,6 @@
 [![Tableau badge](https://img.shields.io/badge/-%20Tableau:전체기업대시보드-%23F7DF1E?style=plastic-square&logo=Tableau&color=FFD8A9&link=https://public.tableau.com/views/all_cmp_esg_rating_ver7/3_all?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/all_cmp_esg_rating_ver7/3_all?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link) 
 [![Tableau badge](https://img.shields.io/badge/-%20Tableau:개별기업대시보드-%23F7DF1E?style=plastic-square&logo=Tableau&color=FFD8A9&link=https://public.tableau.com/views/specific_cmp_esg_rating_ver7/2?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/specific_cmp_esg_rating_ver7/2?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link)
 
-![image.png1](https://user-images.githubusercontent.com/68022088/222875079-d9ed28be-bfe1-43e8-b0c0-1b1d7943ae6e.PNG) |![image.png2](https://user-images.githubusercontent.com/68022088/222875136-dbfbb974-1631-48d3-86c2-470b1ea2da78.PNG)
---- | --- | 
-
 
 ### 📑분석결과
 ![image](https://user-images.githubusercontent.com/109210030/217034290-bd30e252-87cd-4a70-a4c2-e4211629adff.png)
