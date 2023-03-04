@@ -16,6 +16,10 @@
 ### ✨프로젝트 우수상 수상 
 ![image](https://user-images.githubusercontent.com/109210030/217032026-3565d3a2-6d76-4db4-8b92-ab6d2e7c00d8.png)
 
+### :bar_chart: ESG 평가 시스템 대시보드
+[![Tableau badge](https://img.shields.io/badge/-%20Tableau:전체기업대시보드-%23F7DF1E?style=plastic-square&logo=Tableau&color=FFD8A9&link=https://public.tableau.com/views/all_cmp_esg_rating_ver7/3_all?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/all_cmp_esg_rating_ver7/3_all?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link) <br>
+[![Tableau badge](https://img.shields.io/badge/-%20Tableau:개별기업대시보드-%23F7DF1E?style=plastic-square&logo=Tableau&color=FFD8A9&link=https://public.tableau.com/views/specific_cmp_esg_rating_ver7/2?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/specific_cmp_esg_rating_ver7/2?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ### 📑분석결과
 ![image](https://user-images.githubusercontent.com/109210030/217034290-bd30e252-87cd-4a70-a4c2-e4211629adff.png)
 
@@ -28,4 +32,5 @@
 ### 📓프로세스 (요약) 
 ![image](https://user-images.githubusercontent.com/109210030/217014140-5c0fabe9-f21f-40d1-9ae8-ca65746e7702.png)
 
-
+### :memo: 팀 노션
+[![Notion badge](https://img.shields.io/badge/-%20Notion-%23F7DF1E?style=plastic-square&logo=Notion&color=grey&link=https://alpine-menu-77a.notion.site/ESG-27914e38fb9a43f38f96e4a162f23785)](https://alpine-menu-77a.notion.site/ESG-27914e38fb9a43f38f96e4a162f23785)
